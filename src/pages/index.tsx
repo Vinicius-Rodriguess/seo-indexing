@@ -6,6 +6,7 @@ export default function Home() {
     <>
       <Head>
         <title>Pagar Detran Online | SeuSite</title>
+        <meta name="google-site-verification" content="lj-pWmpD1uNTZqLHaFaRV2F2Ooctjr-Ho_1U3qLjuo4" />
         <meta
           name="description"
           content="Consulte multas, IPVA e taxas do Detran de qualquer município do Brasil. Pagamento online, rápido e seguro."
